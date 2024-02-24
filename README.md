@@ -1,2 +1,2 @@
 # E-Commernce-
-all e-commerce stores in bnaglore
+# all e-commerce stores in bnaglore
